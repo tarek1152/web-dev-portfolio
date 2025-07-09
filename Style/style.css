@@ -167,3 +167,6 @@ footer input[type="text"],footer input[type="email" ], footer textarea{
 .icon{
     padding: 20px;
 }
+.new:hover{
+    color: red;
+}
